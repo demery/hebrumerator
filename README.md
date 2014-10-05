@@ -43,3 +43,20 @@ $ h2a ט״ו
 15
 
 ```
+
+## Background
+
+I read this Wikipedia page
+(<http://en.wikipedia.org/wiki/Hebrew_numerals>) and stole some ideas
+from Andrew Vos's
+[roman-numerals](https://github.com/AndrewVos/roman-numerals) code.
+
+Thousands separator: I chose not to use one. I'm tired. And I didn't know the
+rule for using a thousands separator in this context:
+
+```
+2001 => ב״א
+```
+
+Does this get a _gershayim_ or a thousands separator? Beats me. If
+someone knows, please do tell me.

@@ -1,6 +1,6 @@
 # Hebrumerator
 
-Convert Arabic numerals to Hebrew and the also the other way too.
+Convert Arabic numerals to Hebrew and also the other way too.
 
 ## Install
 

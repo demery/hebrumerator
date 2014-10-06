@@ -60,3 +60,15 @@ rule for using a thousands separator in this context:
 
 Does this get a _gershayim_ or a thousands separator? Beats me. If
 someone knows, please do tell me.
+
+It's worth mentioning, and so: I mention it, that there's some ambiguity with numbers like 1 and 1,000. Both are correctly rendered:
+
+```
+א׳
+```
+
+Seriously.
+
+See this page for the skinny on how this works and alternative renderings:
+
+- <http://www.i18nguy.com/unicode/hebrew-numbers.html>
